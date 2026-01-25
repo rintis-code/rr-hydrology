@@ -99,33 +99,19 @@ Level 3 membahas **Decision Systems berbasis Agent AI** untuk sistem hidrologi n
 ## Navigasi
 Gunakan menu **Level 3** untuk mengakses modul 1–15.
 
----
-
 ## 🚀 Mulai Belajar
-
-👉 **[Mulai dari Modul 1 — From Model to Decision System](../01-from-model-to-decision-system.md)**
-
-📘 Modul lanjutan:
-- [Modul 2 — System Architecture](../02-system-architecture-sda.md)
-- [Modul 3 — Multi-Model Integration](../03-multi-model-integration.md)
-- [Modul 4 — Uncertainty & Risk](../04-uncertainty-and-risk.md)
-- [Modul 5 — Adaptive River Infrastructure](../05-adaptive-river-infrastructure.md)
-- [Modul 6 — Adaptive Reservoir Operation](../06-adaptive-reservoir-operation.md)
-- [Modul 7 — Decision Layer in SDA](../07-decision-layer-in-sda.md)
-- [Modul 8 — AI Agent Concept](../08-ai-agent-concept.md)
-- [Modul 9 — FFWS System Concept](../09-ffws-system-concept.md)
-- [Modul 10 — Mitigation Action Simulation](../10-mitigation-action-simulation.md)
-- [Modul 11 — Extreme Event Scenarios](../11-extreme-event-scenarios.md)
-- [Modul 12 — Impact Evaluation](../12-impact-evaluation.md)
-
-🚨 Proyek utama:
-- **[Modul 13 — Project FFWS System](../13-project-ffws-system.md)**
-
-🌊 Studi kasus mitigasi:
-- **[Modul 14 — Case Mitigation](../14-case-mitigation.md)**
-
-🏞️ Rekayasa sungai & infrastruktur:
-- **[Modul 15 — Case River Engineering](../15-case-river-engineering.md)**
-
-
-
+- [Modul 1 — From Model to Decision System](01-from-model-to-decision-system.md)
+- [Modul 2 — System Architecture](02-system-architecture-sda.md)
+- [Modul 3 — Multi-Model Integration](03-multi-model-integration.md)
+- [Modul 4 — Uncertainty & Risk](04-uncertainty-and-risk.md)
+- [Modul 5 — Adaptive River Infrastructure](05-adaptive-river-infrastructure.md)
+- [Modul 6 — Adaptive Reservoir Operation](06-adaptive-reservoir-operation.md)
+- [Modul 7 — Decision Layer in SDA](07-decision-layer-in-sda.md)
+- [Modul 8 — AI Agent Concept](08-ai-agent-concept.md)
+- [Modul 9 — FFWS System Concept](09-ffws-system-concept.md)
+- [Modul 10 — Mitigation Action Simulation](10-mitigation-action-simulation.md)
+- [Modul 11 — Extreme Event Scenarios](11-extreme-event-scenarios.md)
+- [Modul 12 — Impact Evaluation](12-impact-evaluation.md)
+- [Modul 13 — Project FFWS System](13-project-ffws-system.md)
+- [Modul 14 — Case Mitigation](14-case-mitigation.md)
+- [Modul 15 — Case River Engineering](15-case-river-engineering.md)
