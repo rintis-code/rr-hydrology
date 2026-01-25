@@ -29,63 +29,68 @@ nav:
   - About: about.md
   - Learning Roadmap: roadmap.md
 
+ nav:
+  - Home: index.md
+  - About: about.md
+  - Learning Roadmap: roadmap.md
+
   - Level 1 — Fundamental Hydrology:
-      - Overview: level-1/00-intro/
-      - Modul 1: level-1/01/
-      - Modul 2: level-1/02/
-      - Modul 3: level-1/03/
-      - Modul 4: level-1/04/
-      - Modul 5: level-1/05/
-      - Modul 6: level-1/06/
-      - Modul 7: level-1/07/
-      - Modul 8 — Case UTS: level-1/08-case-uts/
-      - Modul 9: level-1/09/
-      - Modul 10: level-1/10/
-      - Modul 11: level-1/11/
-      - Modul 12: level-1/12/
-      - Modul 13: level-1/13/
-      - Modul 14: level-1/14/
-      - Modul 15: level-1/15/
-      - Modul 16 — Case UAS: level-1/16-case-uas/
-      - AI Policy: level-1/ai-policy/
+      - Overview: level-1/00-intro.md
+      - Modul 1: level-1/01.md
+      - Modul 2: level-1/02.md
+      - Modul 3: level-1/03.md
+      - Modul 4: level-1/04.md
+      - Modul 5: level-1/05.md
+      - Modul 6: level-1/06.md
+      - Modul 7: level-1/07.md
+      - Modul 8 — Case UTS: level-1/08-case-uts.md
+      - Modul 9: level-1/09.md
+      - Modul 10: level-1/10.md
+      - Modul 11: level-1/11.md
+      - Modul 12: level-1/12.md
+      - Modul 13: level-1/13.md
+      - Modul 14: level-1/14.md
+      - Modul 15: level-1/15.md
+      - Modul 16 — Case UAS: level-1/16-case-uas.md
+      - AI Policy: level-1/ai-policy.md
 
   - Level 2 — Applied Hydrology (AI):
-      - Overview: level-2/00-intro/
-      - Modul 1: level-2/01/
-      - Modul 2: level-2/02/
-      - Modul 3: level-2/03/
-      - Modul 4: level-2/04/
-      - Modul 5: level-2/05/
-      - Modul 6: level-2/06/
-      - Modul 7: level-2/07/
-      - Modul 8 — Case 1: level-2/08-case-1/
-      - Modul 9: level-2/09/
-      - Modul 10: level-2/10/
-      - Modul 11: level-2/11/
-      - Modul 12: level-2/12/
-      - Modul 13: level-2/13/
-      - Modul 14: level-2/14/
-      - Modul 15: level-2/15/
-      - Modul 16 — Case 2: level-2/16-case-2/
-      - Report Guideline: level-2/report-guideline/
+      - Overview: level-2/00-intro.md
+      - Modul 1: level-2/01.md
+      - Modul 2: level-2/02.md
+      - Modul 3: level-2/03.md
+      - Modul 4: level-2/04.md
+      - Modul 5: level-2/05.md
+      - Modul 6: level-2/06.md
+      - Modul 7: level-2/07.md
+      - Modul 8 — Case 1: level-2/08-case-1.md
+      - Modul 9: level-2/09.md
+      - Modul 10: level-2/10.md
+      - Modul 11: level-2/11.md
+      - Modul 12: level-2/12.md
+      - Modul 13: level-2/13.md
+      - Modul 14: level-2/14.md
+      - Modul 15: level-2/15.md
+      - Modul 16 — Case 2: level-2/16-case-2.md
+      - Report Guideline: level-2/report-guideline.md
 
   - Level 3 — Expert Hydrology (AI Agents):
-      - Overview: level-3/00-intro/
-      - Modul 1: level-3/01-from-model-to-decision-system/
-      - Modul 2: level-3/02-system-architecture-sda/
-      - Modul 3: level-3/03-multi-model-integration/
-      - Modul 4: level-3/04-uncertainty-and-risk/
-      - Modul 5: level-3/05-adaptive-river-infrastructure/
-      - Modul 6: level-3/06-adaptive-reservoir-operation/
-      - Modul 7: level-3/07-decision-layer-in-sda/
-      - Modul 8: level-3/08-ai-agent-concept/
-      - Modul 9: level-3/09-ffws-system-concept/
-      - Modul 10: level-3/10-mitigation-action-simulation/
-      - Modul 11: level-3/11-extreme-event-scenarios/
-      - Modul 12: level-3/12-impact-evaluation/
-      - Modul 13 — Project: level-3/13-project-ffws-system/
-      - Modul 14 — Case Mitigation: level-3/14-case-mitigation/
-      - Modul 15 — Case River Engineering: level-3/15-case-river-engineering/
+      - Overview: level-3/00-intro.md
+      - Modul 1: level-3/01-from-model-to-decision-system.md
+      - Modul 2: level-3/02-system-architecture-sda.md
+      - Modul 3: level-3/03-multi-model-integration.md
+      - Modul 4: level-3/04-uncertainty-and-risk.md
+      - Modul 5: level-3/05-adaptive-river-infrastructure.md
+      - Modul 6: level-3/06-adaptive-reservoir-operation.md
+      - Modul 7: level-3/07-decision-layer-in-sda.md
+      - Modul 8: level-3/08-ai-agent-concept.md
+      - Modul 9: level-3/09-ffws-system-concept.md
+      - Modul 10: level-3/10-mitigation-action-simulation.md
+      - Modul 11: level-3/11-extreme-event-scenarios.md
+      - Modul 12: level-3/12-impact-evaluation.md
+      - Modul 13 — Project: level-3/13-project-ffws-system.md
+      - Modul 14 — Case Mitigation: level-3/14-case-mitigation.md
+      - Modul 15 — Case River Engineering: level-3/15-case-river-engineering.md
 
 markdown_extensions:
   - admonition
