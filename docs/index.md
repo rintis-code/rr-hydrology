@@ -14,7 +14,7 @@ Selamat datang di **Rr. Hydrology**. Pilih level untuk mulai belajar.
     <li>Dasar banjir & kekeringan</li>
   </ul>
   <p>
-    <a href="level-1/00-intro/" style="font-weight:600;">Masuk Level 1 →</a>
+    <a href="level-1/00-intro.md" style="font-weight:600;">Masuk Level 1 →</a>
   </p>
 </div>
 
@@ -27,7 +27,7 @@ Selamat datang di **Rr. Hydrology**. Pilih level untuk mulai belajar.
     <li>Laporan IMRAD + AI policy</li>
   </ul>
   <p>
-    <a href="level-2/00-intro/" style="font-weight:600;">Masuk Level 2 →</a>
+    <a href="level-2/00-intro.md" style="font-weight:600;">Masuk Level 2 →</a>
   </p>
 </div>
 
@@ -40,7 +40,7 @@ Selamat datang di **Rr. Hydrology**. Pilih level untuk mulai belajar.
     <li>Operasi waduk & rekayasa sungai</li>
   </ul>
   <p>
-    <a href="level-3/00-intro/" style="font-weight:600;">Masuk Level 3 →</a>
+   <a href="level-3/00-intro.md" style="font-weight:600;">Masuk Level 3 →</a>
   </p>
 </div>
 
