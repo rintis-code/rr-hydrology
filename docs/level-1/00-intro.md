@@ -67,39 +67,35 @@ Setelah menyelesaikan Level 1, mahasiswa mampu:
 ## Navigasi
 Silakan gunakan menu di atas untuk membuka modul 1–16.
 
----
-
 ## 🚀 Mulai Belajar
 
 ### 📘 Tahap 1–7 (Fondasi Konsep)
-
-- [Modul 1 — Hydrology Basics](../01.md)
-- [Modul 2 — Rainfall Analysis](../02.md)
-- [Modul 3 — Evapotranspiration](../03.md)
-- [Modul 4 — Infiltration & Runoff](../04.md)
-- [Modul 5 — Hydrograph Concepts](../05.md)
-- [Modul 6 — Unit Hydrograph](../06.md)
-- [Modul 7 — Flood Estimation](../07.md)
+- [Modul 1 — Hydrology Basics](01.md)
+- [Modul 2 — Rainfall Analysis](02.md)
+- [Modul 3 — Evapotranspiration](03.md)
+- [Modul 4 — Infiltration & Runoff](04.md)
+- [Modul 5 — Hydrograph Concepts](05.md)
+- [Modul 6 — Unit Hydrograph](06.md)
+- [Modul 7 — Flood Estimation](07.md)
 
 ### 🧩 Modul 8 — Case Study UTS
-
-- 🔍 [Modul 8 — Case Study UTS](../08-case-uts.md)
-
----
+- [Modul 8 — Case Study UTS](08-case-uts.md)
 
 ### 📊 Tahap 9–15 (Penguatan Analitik)
-
-- [Modul 9 — Statistical Hydrology](../09.md)
-- [Modul 10 — Drought Analysis](../10.md)
-- [Modul 11 — Water Balance](../11.md)
-- [Modul 12 — Watershed Processes](../12.md)
-- [Modul 13 — River Hydraulics Intro](../13.md)
-- [Modul 14 — Open Channel Flow](../14.md)
-- [Modul 15 — Sediment Basics](../15.md)
+- [Modul 9 — Statistical Hydrology](09.md)
+- [Modul 10 — Drought Analysis](10.md)
+- [Modul 11 — Water Balance](11.md)
+- [Modul 12 — Watershed Processes](12.md)
+- [Modul 13 — River Hydraulics Intro](13.md)
+- [Modul 14 — Open Channel Flow](14.md)
+- [Modul 15 — Sediment Basics](15.md)
 
 ### 🧪 Modul 16 — Case Study UAS
+- [Modul 16 — Case Study UAS](16-case-uas.md)
 
-- 🧪 [Modul 16 — Case Study UAS](../16-case-uas.md)
+### 🤖 Panduan Penggunaan AI
+- [AI Policy & Guidance](ai-policy.md)
+
 
 ---
 
