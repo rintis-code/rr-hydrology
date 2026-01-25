@@ -126,5 +126,3 @@ Silakan buka modul melalui menu **Level 2** pada navbar.
 
 📝 Panduan laporan:
 - [Report Guideline](../report-guideline.md)
-
-
