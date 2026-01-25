@@ -94,3 +94,16 @@ Level 2 berfokus pada **pemodelan, engineering tools, Machine Learning, dan penu
 
 ## Navigasi
 Silakan buka modul melalui menu **Level 2** pada navbar.
+
+---
+
+## 🚀 Mulai Belajar
+
+👉 **[Mulai dari Modul 1 — Rainfall–Runoff Modeling](01/)**
+
+🧩 Studi kasus pertama:  
+🔍 **[Modul 8 — Case Study 1](08/)**  
+
+📊 Perbandingan model:  
+🧪 **[Modul 16 — Case Study 2](16/)**
+
