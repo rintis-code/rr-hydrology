@@ -95,34 +95,21 @@ Level 2 berfokus pada **pemodelan, engineering tools, Machine Learning, dan penu
 ## Navigasi
 Silakan buka modul melalui menu **Level 2** pada navbar.
 
----
-
 ## 🚀 Mulai Belajar
-
-👉 **[Mulai dari Modul 1](../01.md)**
-
-📚 Lanjut modul dasar:
-- [Modul 2](../02.md)
-- [Modul 3](../03.md)
-- [Modul 4](../04.md)
-- [Modul 5](../05.md)
-- [Modul 6](../06.md)
-- [Modul 7](../07.md)
-
-🧩 Studi kasus pertama:
-- 🔍 **[Modul 8 — Case Study 1](../08-case-1.md)**
-
-📊 Lanjut analitik lanjutan:
-- [Modul 9](../09.md)
-- [Modul 10](../10.md)
-- [Modul 11](../11.md)
-- [Modul 12](../12.md)
-- [Modul 13](../13.md)
-- [Modul 14](../14.md)
-- [Modul 15](../15.md)
-
-🧪 Studi kasus akhir:
-- **[Modul 16 — Case Study 2](../16-case-2.md)**
-
-📝 Panduan laporan:
-- [Report Guideline](../report-guideline.md)
+- [Modul 1](01.md)
+- [Modul 2](02.md)
+- [Modul 3](03.md)
+- [Modul 4](04.md)
+- [Modul 5](05.md)
+- [Modul 6](06.md)
+- [Modul 7](07.md)
+- [Modul 8 — Case Study 1](08-case-1.md)
+- [Modul 9](09.md)
+- [Modul 10](10.md)
+- [Modul 11](11.md)
+- [Modul 12](12.md)
+- [Modul 13](13.md)
+- [Modul 14](14.md)
+- [Modul 15](15.md)
+- [Modul 16 — Case Study 2](16-case-2.md)
+- [Report Guideline](report-guideline.md)
