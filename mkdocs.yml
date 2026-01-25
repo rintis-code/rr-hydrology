@@ -38,9 +38,9 @@ theme:
 
 nav:
   - Home: index.md
-  - nav:
-  - Home: index.md
-
+  - About: about.md
+  - Learning Roadmap: roadmap.md
+  
   - Level 1 — Fundamental Hydrology:
     - Overview: level-1/00-intro.md
     - Modul 1 — Hydrology Basics: level-1/01.md
