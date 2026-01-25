@@ -102,9 +102,9 @@ Silakan buka modul melalui menu **Level 2** pada navbar.
 👉 **[Mulai dari Modul 1](../01/)**
 
 🧩 Studi kasus pertama:
-- 🔍 **[Modul 8](../08/)**
+- 🔍 **[Modul 8](../08-case-1/)**
 
 📊 Studi kasus akhir:
-- 🧪 **[Modul 16](../16/)**
+- 🧪 **[Modul 16](../16-case-2/)**
 
 
