@@ -99,11 +99,12 @@ Silakan buka modul melalui menu **Level 2** pada navbar.
 
 ## 🚀 Mulai Belajar
 
-👉 **[Mulai dari Modul 1 — Rainfall–Runoff Modeling](01/)**
+👉 **[Mulai dari Modul 1](../01/)**
 
-🧩 Studi kasus pertama:  
-🔍 **[Modul 8 — Case Study 1](08/)**  
+🧩 Studi kasus pertama:
+- 🔍 **[Modul 8](../08/)**
 
-📊 Perbandingan model:  
-🧪 **[Modul 16 — Case Study 2](16/)**
+📊 Studi kasus akhir:
+- 🧪 **[Modul 16](../16/)**
+
 
