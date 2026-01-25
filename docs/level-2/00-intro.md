@@ -46,11 +46,49 @@ Mahasiswa wajib menyertakan bagian:
 **“AI Use Statement”** (singkat) pada laporan.
 
 ---
+## Struktur Modul Level 2
+
+Level 2 berfokus pada **pemodelan, engineering tools, Machine Learning, dan penulisan ilmiah**.
+
+### Tahap 1–7 (Engineering & Data Foundation)
+
+1. Rainfall–Runoff Modeling Concepts  
+2. Introduction to HEC-HMS  
+3. Basin Model Development  
+4. Parameter Calibration & Validation  
+5. Introduction to HEC-RAS  
+6. River Geometry & Boundary Conditions  
+7. Flow Simulation & Result Interpretation  
+
+### Modul 8 — Case Study 1  
+**Aplikasi HEC-HMS/HEC-RAS pada DAS studi**  
+→ Menguji kemampuan tahap 1–7
+
+---
+
+### Tahap 9–15 (ML, AI & Professional Reporting)
+
+9. Data Preparation for Hydrology ML  
+10. Introduction to Machine Learning in Hydrology  
+11. Neural Network for Rainfall–Runoff Prediction  
+12. Model Evaluation Metrics (RMSE, NSE, R², etc.)  
+13. Hybrid Modeling (Physical + ML)  
+14. Scientific Writing with IMRAD  
+15. AI-Assisted Analysis & Ethical Use  
+
+### Modul 16 — Case Study 2  
+**Comparative Study: Physical Model vs ML Model**  
+→ Menguji kemampuan tahap 9–15
+
+---
 
 ## Output Level 2
+- Model HEC-HMS/HEC-RAS
+- Model ML / Neural Network
+
 - Tugas modul (ringkas)
 - 1–2 studi kasus
-- Laporan IMRAD (wajib) + daftar pustaka
+- Laporan IMRAD (wajib) + daftar pustaka + AI Use Statement
 
 ---
 
