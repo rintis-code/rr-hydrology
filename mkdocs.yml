@@ -15,6 +15,12 @@ theme:
       primary: indigo
       accent: purple
 
+  theme:
+  name: material
+  features:
+    - navigation.footer
+    - toc.integrate
+
 repo_name: ""
 repo_url: ""
 
