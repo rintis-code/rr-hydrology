@@ -71,9 +71,9 @@ Silakan gunakan menu di atas untuk membuka modul 1–16.
 
 ## 🚀 Mulai Belajar
 
-👉 **[Mulai dari Modul 1 — Hydrology Basics](01/)**
+👉 **[Mulai dari Modul 1 — Hydrology Basics](../01/)**
 
-📚 Atau langsung ke studi kasus pertama:  
-🔍 **[Modul 8 — Case Study 1](08-case/)**  
-🧪 **[Modul 16 — Case Study 2](16-case/)**
+📚 Atau langsung ke studi kasus:
+- 🔍 **[Modul 8 — Case Study 1](../08-case/)**
+- 🧪 **[Modul 16 — Case Study 2](../16-case/)**
 
