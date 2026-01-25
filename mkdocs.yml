@@ -1,6 +1,6 @@
 site_name: Rr. Hydrology
-site_description: Web-based Hydrology Learning Hub – Engineering, AI, and Decision Systems
 site_url: https://rintis-code.github.io/rr-hydrology/
+use_directory_urls: true
 
 theme:
   name: material
