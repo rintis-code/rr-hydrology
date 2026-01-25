@@ -21,7 +21,6 @@ theme:
 
 repo_name: ""
 repo_url: ""
-
 extra_css:
   - stylesheets/extra.css
 
