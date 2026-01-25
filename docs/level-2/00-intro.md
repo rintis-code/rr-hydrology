@@ -99,12 +99,29 @@ Silakan buka modul melalui menu **Level 2** pada navbar.
 
 ## 🚀 Mulai Belajar
 
-👉 **[Mulai dari Modul 1](../01/)**
+👉 **[Mulai dari Modul 1](../01.md)**
+
+👉 **[Lanjut Modul 2](../02.md)**  
+👉 **[Lanjut Modul 3](../03.md)**  
+👉 **[Lanjut Modul 4](../04.md)**  
+👉 **[Lanjut Modul 5](../05.md)**  
+👉 **[Lanjut Modul 6](../06.md)**  
+👉 **[Lanjut Modul 7](../07.md)**
 
 🧩 Studi kasus pertama:
 - 🔍 **[Modul 8](../08-case-1/)**
 
+👉 **[Lanjut Modul 2](../09.md)**  
+👉 **[Lanjut Modul 3](../10.md)**  
+👉 **[Lanjut Modul 4](../11.md)**  
+👉 **[Lanjut Modul 5](../12.md)**  
+👉 **[Lanjut Modul 6](../13.md)**  
+👉 **[Lanjut Modul 7](../14.md)**
+👉 **[Lanjut Modul 7](../15.md)**
+
 📊 Studi kasus akhir:
 - 🧪 **[Modul 16](../16-case-2/)**
+
+👉 **[Periksa](../report-guideline.md)**
 
 
