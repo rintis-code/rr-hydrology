@@ -71,28 +71,40 @@ Silakan gunakan menu di atas untuk membuka modul 1–16.
 
 ## 🚀 Mulai Belajar
 
-👉 **[Periksa AI-policy](../ai-policy/)** 
+### 📘 Tahap 1–7 (Fondasi Konsep)
 
-👉 **[Mulai dari Modul 1 — Hydrology Basics](../01.md)**
+- [Modul 1 — Hydrology Basics](../01.md)
+- [Modul 2 — Rainfall Analysis](../02.md)
+- [Modul 3 — Evapotranspiration](../03.md)
+- [Modul 4 — Infiltration & Runoff](../04.md)
+- [Modul 5 — Hydrograph Concepts](../05.md)
+- [Modul 6 — Unit Hydrograph](../06.md)
+- [Modul 7 — Flood Estimation](../07.md)
 
-👉 **[Lanjut Modul 2](../02.md)**  
-👉 **[Lanjut Modul 3](../03.md)**  
-👉 **[Lanjut Modul 4](../04.md)**  
-👉 **[Lanjut Modul 5](../05.md)**  
-👉 **[Lanjut Modul 6](../06.md)**  
-👉 **[Lanjut Modul 7](../07.md)**
+### 🧩 Modul 8 — Case Study UTS
 
-📚 Atau langsung ke studi kasus:
-- 🔍 **[Modul 8 — Case Study 1](../08-case-uts/)**
-- 🧪 **[Modul 16 — Case Study 2](../16-case-uas/)**
+- 🔍 [Modul 8 — Case Study UTS](../08-case-uts.md)
 
-👉 **[Lanjut Modul 9](../09.md)**  
-👉 **[Lanjut Modul 10](../10.md)**  
-👉 **[Lanjut Modul 11](../11.md)**  
-👉 **[Lanjut Modul 12](../12.md)**  
-👉 **[Lanjut Modul 13](../13.md)**  
-👉 **[Lanjut Modul 14](../14.md)** 
+---
 
-👉 **[Lanjut Modul 15](../15.md)**
+### 📊 Tahap 9–15 (Penguatan Analitik)
+
+- [Modul 9 — Statistical Hydrology](../09.md)
+- [Modul 10 — Drought Analysis](../10.md)
+- [Modul 11 — Water Balance](../11.md)
+- [Modul 12 — Watershed Processes](../12.md)
+- [Modul 13 — River Hydraulics Intro](../13.md)
+- [Modul 14 — Open Channel Flow](../14.md)
+- [Modul 15 — Sediment Basics](../15.md)
+
+### 🧪 Modul 16 — Case Study UAS
+
+- 🧪 [Modul 16 — Case Study UAS](../16-case-uas.md)
+
+---
+
+### 🤖 Panduan Penggunaan AI
+
+- [AI Policy & Guidance](../ai-policy.md)
 
 
