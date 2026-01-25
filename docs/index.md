@@ -1,7 +1,7 @@
-![Rr. Hydrology Hero](assets/img/hero-rr-hydrology.svg)
-
 # Rr. Hydrology  
 ### Hydrology • Engineering • AI • Decision Systems
+
+![Rr. Hydrology Hero](assets/img/hero-rr-hydrology.svg)
 
 Selamat datang di **Rr. Hydrology**, sebuah ruang belajar dan pengembangan profesional yang mengintegrasikan:
 
