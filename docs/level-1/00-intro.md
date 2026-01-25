@@ -71,6 +71,7 @@ Silakan gunakan menu di atas untuk membuka modul 1–16.
 
 ## 🚀 Mulai Belajar
 
+👉 **[Periksa AI-policy](../ai-policy/)**
 👉 **[Mulai dari Modul 1 — Hydrology Basics](../01/)**
 
 👉 **[Lanjut Modul 2](../02.md)**  
