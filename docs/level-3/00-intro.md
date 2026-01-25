@@ -110,8 +110,8 @@ Gunakan menu **Level 3** untuk mengakses modul 1–15.
 👉 **[Lanjut Modul 4](../04-*)**  
 👉 **[Lanjut Modul 5](../05-*)**  
 👉 **[Lanjut Modul 6](../06-*)**  
-👉 **[Lanjut Modul 7](../07-*)**
-👉 **[Lanjut Modul 8](../08-*)**
+👉 **[Lanjut Modul 7](../07-*)** 
+👉 **[Lanjut Modul 8](../08-*)**  
 👉 **[Lanjut Modul 9](../09-*)**  
 👉 **[Lanjut Modul 10](../10-*)**  
 👉 **[Lanjut Modul 11](../11-*)**  
