@@ -14,11 +14,49 @@ theme:
 
 nav:
   - Home: index.md
+  - nav:
+  - Home: index.md
+
   - Level 1 — Fundamental Hydrology:
-      - Overview: level-1/00-intro.md
+    - Overview: level-1/00-intro.md
+    - Modul 1 — Hydrology Basics: level-1/01.md
+    - Modul 2 — Rainfall Analysis: level-1/02.md
+    - Modul 3 — Evapotranspiration: level-1/03.md
+    - Modul 4 — Infiltration & Runoff: level-1/04.md
+    - Modul 5 — Hydrograph Concepts: level-1/05.md
+    - Modul 6 — Unit Hydrograph: level-1/06.md
+    - Modul 7 — Flood Estimation: level-1/07.md
+    - Modul 8 — Case Study 1: level-1/08-case.md
+    - Modul 9 — Statistical Hydrology: level-1/09.md
+    - Modul 10 — Drought Analysis: level-1/10.md
+    - Modul 11 — Water Balance: level-1/11.md
+    - Modul 12 — Watershed Processes: level-1/12.md
+    - Modul 13 — River Hydraulics Intro: level-1/13.md
+    - Modul 14 — Open Channel Flow: level-1/14.md
+    - Modul 15 — Sediment Basics: level-1/15.md
+    - Modul 16 — Case Study 2: level-1/16-case.md
+
   - Level 2 — Applied Hydrology (AI):
-      - Overview: level-2/00-intro.md
-  - - Level 3 — Expert Hydrology (AI Agents):
+    - Overview: level-2/00-intro.md
+    - Modul 1 — Engineering Data & Modeling Context: level-2/01.md
+    - Modul 2 — Data for Water Resources Modeling: level-2/02.md
+    - Modul 3 — Quality Control & Preprocessing: level-2/03.md
+    - Modul 4 — Model Calibration & Validation: level-2/04.md
+    - Modul 5 — Rainfall–Runoff Modeling (HEC-HMS): level-2/05.md
+    - Modul 6 — Effective Rainfall & Hydrograph Transform: level-2/06.md
+    - Modul 7 — Flood Routing Basics: level-2/07.md
+    - Case 1 — Rainfall–Runoff Modeling: level-2/08-case-1.md
+    - Modul 9 — 1D Hydraulic Modeling (HEC-RAS): level-2/09.md
+    - Modul 10 — HMS–RAS Integration: level-2/10.md
+    - Modul 11 — Introduction to ML in Hydrology: level-2/11.md
+    - Modul 12 — Neural Network for Discharge Prediction: level-2/12.md
+    - Modul 13 — ML vs Physical Model Evaluation: level-2/13.md
+    - Modul 14 — Model Sensitivity & Uncertainty: level-2/14.md
+    - Modul 15 — Ethics & AI in Water Engineering: level-2/15.md
+    - Case 2 — Integrated Physical & ML Modeling: level-2/16-case-2.md
+    - Report Writing Guideline (IMRAD): level-2/report-guideline.md
+
+  - Level 3 — Expert Hydrology (AI Agents):
   - Overview: level-3/00-intro.md
   - Modul 1 — From Model to Decision System: level-3/01-from-model-to-decision-system.md
   - Modul 2 — System Architecture for Water Resources: level-3/02-system-architecture-sda.md
