@@ -43,6 +43,51 @@ Keputusan akhir tetap:
 - berbasis data, model, dan referensi.
 
 ---
+## Struktur Modul Level 3
+
+Level 3 membahas **Decision Systems berbasis Agent AI** untuk sistem hidrologi nyata.
+
+### Tahap 1–12 (Agent AI & Decision Framework)
+
+1. Systems Thinking in Water Resources  
+2. Decision Support Systems (DSS) Basics  
+3. Hydrological Risk & Uncertainty  
+4. Scenario-Based Planning  
+5. Introduction to Agent AI Concepts  
+6. Human-in-the-Loop Decision Making  
+7. Multi-Criteria Decision Analysis (MCDA)  
+8. Threshold & Early Warning Logic  
+9. Reservoir Operation Strategies  
+10. Flood Mitigation Strategy Design  
+11. Drought Risk Management  
+12. Integrating Hydrology–Hydraulics–Decision Layers  
+
+---
+
+### Modul 13 — Proyek Sistem  
+**Design of Flood Forecasting & Warning System (FFWS)**  
+→ Produk sistem utuh berbasis modul 1–12
+
+---
+
+### Modul 14 — Kasus Mitigasi  
+**Flood & Drought Mitigation Case Study**  
+→ Analisis skenario + rekomendasi teknis
+
+---
+
+### Modul 15 — Kasus Rekayasa Sungai & Infrastruktur  
+**River Engineering & Infrastructure Decision Case**  
+→ Kombinasi model, risiko, dan kebijakan
+
+---
+
+## Output Level 3
+- Kerangka sistem FFWS
+- Decision workflow berbasis Agent AI
+- Rekomendasi teknis berbasis skenario
+
+---
 
 ## Struktur Level 3 (ringkas)
 - 12 modul agentic workflow
