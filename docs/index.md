@@ -1,3 +1,5 @@
+![Rr. Hydrology Hero](assets/img/hero-rr-hydrology.svg)
+
 # Rr. Hydrology  
 ### Hydrology • Engineering • AI • Decision Systems
 
