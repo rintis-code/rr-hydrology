@@ -73,7 +73,23 @@ Silakan gunakan menu di atas untuk membuka modul 1–16.
 
 👉 **[Mulai dari Modul 1 — Hydrology Basics](../01/)**
 
+👉 **[Lanjut Modul 2](../02.md)**  
+👉 **[Lanjut Modul 3](../03.md)**  
+👉 **[Lanjut Modul 4](../04.md)**  
+👉 **[Lanjut Modul 5](../05.md)**  
+👉 **[Lanjut Modul 6](../06.md)**  
+👉 **[Lanjut Modul 7](../07.md)**
+
 📚 Atau langsung ke studi kasus:
 - 🔍 **[Modul 8 — Case Study 1](../08-case-uts/)**
 - 🧪 **[Modul 16 — Case Study 2](../16-case-uas/)**
+
+👉 **[Lanjut Modul 2](../09.md)**  
+👉 **[Lanjut Modul 3](../10.md)**  
+👉 **[Lanjut Modul 4](../11.md)**  
+👉 **[Lanjut Modul 5](../12.md)**  
+👉 **[Lanjut Modul 6](../13.md)**  
+👉 **[Lanjut Modul 7](../14.md)**
+👉 **[Lanjut Modul 7](../15.md)**
+
 
