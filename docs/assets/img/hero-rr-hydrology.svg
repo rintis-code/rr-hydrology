@@ -1,0 +1,56 @@
+## B. Buat file banner
+
+```xml
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0.25"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" />
+    </filter>
+  </defs>
+
+  <rect width="1600" height="420" fill="url(#g1)"/>
+
+  <!-- soft blobs -->
+  <circle cx="260" cy="120" r="120" fill="url(#g2)" filter="url(#soft)"/>
+  <circle cx="1420" cy="90" r="160" fill="url(#g2)" filter="url(#soft)"/>
+  <circle cx="1160" cy="340" r="190" fill="url(#g2)" filter="url(#soft)"/>
+
+  <!-- waves -->
+  <path d="M0,305 C240,250 420,370 650,320 C900,265 1040,355 1260,315 C1400,290 1490,270 1600,300 L1600,420 L0,420 Z"
+        fill="#0b1224" opacity="0.55"/>
+  <path d="M0,325 C230,285 430,395 650,345 C910,285 1045,385 1260,345 C1405,320 1500,305 1600,330 L1600,420 L0,420 Z"
+        fill="#0b1224" opacity="0.35"/>
+
+  <!-- Title -->
+  <text x="90" y="155" font-family="Inter, Arial, sans-serif" font-size="56" fill="#e5e7eb" font-weight="700">
+    Rr. Hydrology
+  </text>
+  <text x="90" y="205" font-family="Inter, Arial, sans-serif" font-size="24" fill="#cbd5e1">
+    Hydrology • Engineering • AI • Decision Systems
+  </text>
+
+  <!-- Level chips -->
+  <g font-family="Inter, Arial, sans-serif" font-size="16" fill="#e5e7eb">
+    <rect x="90" y="245" rx="14" ry="14" width="260" height="44" fill="#111827" opacity="0.85"/>
+    <text x="112" y="273">Level 1 — Fundamental</text>
+
+    <rect x="365" y="245" rx="14" ry="14" width="320" height="44" fill="#111827" opacity="0.85"/>
+    <text x="387" y="273">Level 2 — Applied + AI/ML</text>
+
+    <rect x="700" y="245" rx="14" ry="14" width="360" height="44" fill="#111827" opacity="0.85"/>
+    <text x="722" y="273">Level 3 — Expert (AI Agents)</text>
+  </g>
+
+  <!-- subtitle line -->
+  <text x="90" y="320" font-family="Inter, Arial, sans-serif" font-size="18" fill="#cbd5e1">
+    From physical understanding → modeling tools → agent-driven decision systems (FFWS, mitigation, operations)
+  </text>
+</svg>
