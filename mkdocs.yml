@@ -97,4 +97,3 @@ markdown_extensions:
       generic: true
   - pymdownx.superfences
 use_directory_urls: true
-
