@@ -1,3 +1,16 @@
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+repo_name: ""
+repo_url: ""
+
 site_name: Rr. Hydrology
 site_url: https://rintis-code.github.io/rr-hydrology/
 site_description: Rr. Hydrology is a web-based hydrology learning hub structured into three tiers—Fundamental, Applied (AI), and Expert (AI Agents)—integrating narrative, visuals, and implementation.
