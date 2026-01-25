@@ -9,3 +9,7 @@
 .md-main {
   background: #f7f7ff;
 }
+/* Sembunyikan repo name di header */
+.md-header__source {
+  display: none !important;
+}
