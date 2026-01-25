@@ -101,28 +101,30 @@ Silakan buka modul melalui menu **Level 2** pada navbar.
 
 👉 **[Mulai dari Modul 1](../01.md)**
 
-👉 **[Lanjut Modul 2](../02.md)**  
-👉 **[Lanjut Modul 3](../03.md)**  
-👉 **[Lanjut Modul 4](../04.md)**  
-👉 **[Lanjut Modul 5](../05.md)**  
-👉 **[Lanjut Modul 6](../06.md)**  
-👉 **[Lanjut Modul 7](../07.md)**
+📚 Lanjut modul dasar:
+- [Modul 2](../02.md)
+- [Modul 3](../03.md)
+- [Modul 4](../04.md)
+- [Modul 5](../05.md)
+- [Modul 6](../06.md)
+- [Modul 7](../07.md)
 
 🧩 Studi kasus pertama:
-- 🔍 **[Modul 8](../08-case-1/)**
+- 🔍 **[Modul 8 — Case Study 1](../08-case-1.md)**
 
-👉 **[Lanjut Modul 9](../09.md)**  
-👉 **[Lanjut Modul 10(../10.md)**  
-👉 **[Lanjut Modul 11](../11.md)**  
-👉 **[Lanjut Modul 12](../12.md)**  
-👉 **[Lanjut Modul 13](../13.md)**  
-👉 **[Lanjut Modul 14](../14.md)**
+📊 Lanjut analitik lanjutan:
+- [Modul 9](../09.md)
+- [Modul 10](../10.md)
+- [Modul 11](../11.md)
+- [Modul 12](../12.md)
+- [Modul 13](../13.md)
+- [Modul 14](../14.md)
+- [Modul 15](../15.md)
 
-👉 **[Lanjut Modul 15](../15.md)**
+🧪 Studi kasus akhir:
+- **[Modul 16 — Case Study 2](../16-case-2.md)**
 
-📊 Studi kasus akhir:
-- 🧪 **[Modul 16](../16-case-2/)**
-
-👉 **[Periksa guideline](../report-guideline.md)**
+📝 Panduan laporan:
+- [Report Guideline](../report-guideline.md)
 
 
