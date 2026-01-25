@@ -1,4 +1,4 @@
-# Level 1 — Fundamental Hydrology (Overview)
+# Level 1 — Fundamental Hydrology 
 
 ## Purpose
 This level builds conceptual and computational foundations for hydrology, emphasizing interpretability and manual reasoning.
