@@ -92,6 +92,6 @@ Silakan gunakan menu di atas untuk membuka modul 1–16.
 👉 **[Lanjut Modul 5](../12.md)**  
 👉 **[Lanjut Modul 6](../13.md)**  
 👉 **[Lanjut Modul 7](../14.md)**
-👉 **[Lanjut Modul 7](../15.md)**
+
 
 
