@@ -103,15 +103,15 @@ Gunakan menu **Level 3** untuk mengakses modul 1–15.
 
 ## 🚀 Mulai Belajar
 
-👉 **[Mulai dari Modul 1 — Systems Thinking](01/)**
+👉 **[Mulai dari Modul 1](../01/)**
 
-🛰️ Proyek utama:  
-🚨 **[Modul 13 — Proyek Sistem FFWS](13/)**  
+🛰️ Proyek utama:
+- 🚨 **[Modul 13 — Proyek Sistem FFWS](../13/)**
 
-🌊 Studi kasus mitigasi:  
-🛠️ **[Modul 14 — Mitigasi Banjir & Kekeringan](14/)**  
+🌊 Studi kasus mitigasi:
+- 🛠️ **[Modul 14](../14/)**
 
-🏞️ Rekayasa sungai & infrastruktur:  
-🏗️ **[Modul 15 — River Engineering Case](15/)**
+🏞️ Rekayasa sungai & infrastruktur:
+- 🏗️ **[Modul 15](../15/)**
 
 
