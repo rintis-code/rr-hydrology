@@ -1,106 +1,52 @@
-# Rr. Hydrology  
+# Rr. Hydrology
 ### Hydrology • Engineering • AI • Decision Systems
 
-![Rr. Hydrology Hero](assets/img/hero-rr-hydrology.svg)
+Selamat datang di **Rr. Hydrology**. Pilih level untuk mulai belajar.
 
-Selamat datang di **Rr. Hydrology**, sebuah ruang belajar dan pengembangan profesional yang mengintegrasikan:
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;margin-top:18px;">
 
-- Fondasi ilmu hidrologi  
-- Rekayasa sumber daya air modern  
-- Artificial Intelligence (AI)  
-- Sistem keputusan berbasis model  
+<div style="border:1px solid #e5e7eb;border-radius:14px;padding:16px;">
+  <h2 style="margin-top:0;">Level 1</h2>
+  <p><strong>Fundamental Hydrology</strong></p>
+  <ul>
+    <li>Proses fisik hidrologi</li>
+    <li>Perhitungan manual & konsep</li>
+    <li>Dasar banjir & kekeringan</li>
+  </ul>
+  <p>
+    <a href="level-1/00-intro/" style="font-weight:600;">Masuk Level 1 →</a>
+  </p>
+</div>
 
-Platform ini dirancang untuk membentuk **engineer hidrologi masa depan** yang tidak hanya mampu menghitung, tetapi juga mampu **merancang sistem keputusan air yang adaptif, cerdas, dan bertanggung jawab.**
+<div style="border:1px solid #e5e7eb;border-radius:14px;padding:16px;">
+  <h2 style="margin-top:0;">Level 2</h2>
+  <p><strong>Applied Hydrology (Engineering Tools, ML & AI)</strong></p>
+  <ul>
+    <li>HEC-HMS / HEC-RAS</li>
+    <li>Neural Network & ML</li>
+    <li>Laporan IMRAD + AI policy</li>
+  </ul>
+  <p>
+    <a href="level-2/00-intro/" style="font-weight:600;">Masuk Level 2 →</a>
+  </p>
+</div>
 
----
+<div style="border:1px solid #e5e7eb;border-radius:14px;padding:16px;">
+  <h2 style="margin-top:0;">Level 3</h2>
+  <p><strong>Expert Hydrology (AI Agents)</strong></p>
+  <ul>
+    <li>Decision systems</li>
+    <li>FFWS, mitigasi banjir-kekeringan</li>
+    <li>Operasi waduk & rekayasa sungai</li>
+  </ul>
+  <p>
+    <a href="level-3/00-intro/" style="font-weight:600;">Masuk Level 3 →</a>
+  </p>
+</div>
 
-## 🌊 Struktur Pembelajaran
-
-Rr. Hydrology dibangun dalam **tiga level kompetensi bertahap**:
-
----
-
-### 🟦 **Level 1 — Fundamental Hydrology**
-**Fokus:** Pemahaman proses fisik dan dasar rekayasa hidrologi
-
-Mahasiswa mempelajari:
-- Hujan, infiltrasi, limpasan
-- Hidrograf dan respon DAS
-- Konsep hidraulika sungai
-- Analisis banjir dan kekeringan
-
-🎯 Tujuan Level 1:  
-Membangun **fondasi ilmiah dan teknik** yang kuat sebelum masuk ke pemodelan modern.
-
----
-
-### 🟩 **Level 2 — Applied Hydrology with AI**
-**Fokus:** Pemodelan, engineering tools, dan Machine Learning
-
-Mahasiswa belajar:
-- HEC-HMS dan HEC-RAS
-- Integrasi model hidrologi–hidraulika
-- Neural Network dan ML dalam prediksi debit
-- Evaluasi model dan ketidakpastian
-- Penulisan laporan ilmiah berbasis IMRAD
-
-🎯 Tujuan Level 2:  
-Membentuk **modeler hidrologi modern** yang mampu menggunakan AI sebagai alat bantu analisis.
-
----
-
-### 🟥 **Level 3 — Expert Hydrology (AI Agents & Decision Systems)**
-**Fokus:** Sistem keputusan sumber daya air berbasis model
-
-Mahasiswa tidak lagi hanya membuat model, tetapi merancang:
-
-- Sistem mitigasi banjir dan kekeringan
-- Operasi waduk adaptif
-- Rekayasa sungai berbasis sistem
-- Flood Forecasting Warning System (FFWS)
-- Integrasi **Agent AI** sebagai decision-support
-
-🎯 Tujuan Level 3:  
-Membentuk **System Hydrology Engineer** yang mampu merancang sistem nyata dengan mempertimbangkan risiko, dampak sosial, dan keberlanjutan.
+</div>
 
 ---
 
-## 🤖 Peran AI dalam Rr. Hydrology
-
-AI digunakan sebagai:
-
-✔ Alat bantu analisis  
-✔ Pendukung evaluasi skenario  
-✔ Asisten visualisasi dan pemodelan  
-
-Namun:
-
-> **Keputusan teknik tetap berada pada tanggung jawab manusia.**
-
-Mahasiswa dilatih untuk **berpikir kritis, etis, dan profesional**, bukan hanya mengoperasikan AI.
-
----
-
-## 🎓 Hasil Akhir Pembelajaran
-
-Lulusan dari ekosistem ini diharapkan mampu:
-
-- Memahami proses hidrologi secara mendalam  
-- Menggunakan model dan AI secara bertanggung jawab  
-- Merancang sistem mitigasi banjir dan kekeringan  
-- Mengintegrasikan infrastruktur, model, dan keputusan  
-- Berperan sebagai engineer yang adaptif di era perubahan iklim  
-
----
-
-## 🚀 Mulai Belajar
-
-Gunakan menu navigasi untuk memulai dari:
-
-➡ **Level 1 — Fundamental Hydrology**  
-atau langsung masuk ke level yang sesuai dengan kompetensi Anda.
-
----
-
-**Rr. Hydrology**  
-*Where hydrology meets engineering, intelligence, and responsibility.*
+## Catatan Penggunaan AI
+AI boleh digunakan sebagai alat bantu. Interpretasi dan keputusan tetap wajib dilakukan mahasiswa.
