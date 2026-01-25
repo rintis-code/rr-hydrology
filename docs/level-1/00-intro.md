@@ -86,12 +86,12 @@ Silakan gunakan menu di atas untuk membuka modul 1–16.
 - 🔍 **[Modul 8 — Case Study 1](../08-case-uts/)**
 - 🧪 **[Modul 16 — Case Study 2](../16-case-uas/)**
 
-👉 **[Lanjut Modul 2](../09.md)**  
-👉 **[Lanjut Modul 3](../10.md)**  
-👉 **[Lanjut Modul 4](../11.md)**  
-👉 **[Lanjut Modul 5](../12.md)**  
-👉 **[Lanjut Modul 6](../13.md)**  
-👉 **[Lanjut Modul 7](../14.md)**
-
+👉 **[Lanjut Modul 9](../09.md)**  
+👉 **[Lanjut Modul 10](../10.md)**  
+👉 **[Lanjut Modul 11](../11.md)**  
+👉 **[Lanjut Modul 12](../12.md)**  
+👉 **[Lanjut Modul 13](../13.md)**  
+👉 **[Lanjut Modul 14](../14.md)** 
+👉 **[Lanjut Modul 15](../15.md)**
 
 
