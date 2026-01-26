@@ -32,13 +32,14 @@ Setelah menyelesaikan Level 1, mahasiswa mampu:
 ## Struktur Modul (1–16)
 
 ### Tahap 1–7 (Fondasi Konsep)
-1. Hydrology Basics  
-2. Rainfall Analysis  
-3. Evapotranspiration  
-4. Infiltration & Runoff  
-5. Hydrograph Concepts  
-6. Unit Hydrograph  
-7. Flood Estimation  
+1. [Hydrology Basics](../01/)  
+2. [Rainfall Analysis](../02/)  
+3. [Evapotranspiration](../03/)  
+4. [Infiltration & Runoff](../04/)  
+5. [Hydrograph Concepts](../05/)  
+6. [Unit Hydrograph](../06/)  
+7. [Flood Estimation](../07/)  
+  
 
 ### Modul 8 (Case Study 1 — Uji Tahap 1–7)
 8. Case Study 1
