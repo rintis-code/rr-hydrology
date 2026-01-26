@@ -1,115 +1,69 @@
 # Level 2 — Applied Hydrology (Engineering Tools, ML & AI)
 
 ## Purpose
-This level focuses on hydrologic applications where AI/ML supports validation, prediction, and operational analytics.
+Level 2 membawa mahasiswa dari **fondasi konseptual** menuju **pemodelan hidrologi dan hidraulika berbasis alat rekayasa modern**.  
 
-## Typical topics (to be expanded)
-- Satellite rainfall validation against ground observations
-- Data cleaning and feature engineering
-- ML models for rainfall/debit prediction
-- Model evaluation (NSE, RMSE, R²)
-- Short-term forecasting workflows
+Fokus utama pada level ini adalah **bagaimana model digunakan sebagai alat analisis dan eksplorasi sistem**, bukan sekadar menjalankan software.
 
-## Deskripsi Level
-Level 2 membawa mahasiswa dari konsep dasar menuju **pemodelan dan analitik modern** dengan dukungan:
-- engineering tools (mis. HEC-HMS/HEC-RAS),
-- Machine Learning (ML) & Neural Network,
-- praktik penulisan ilmiah dan pelaporan profesional.
+Mahasiswa mulai bekerja dengan:
+- model hidrologi (rainfall–runoff),
+- model hidraulika sungai,
+- serta pendekatan berbasis **Machine Learning dan AI** untuk prediksi.
 
-AI (mis. ChatGPT) **diizinkan** pada level ini, namun hanya sebagai asisten.
+Namun yang ditekankan tetap:
+> **pemahaman proses, asumsi model, dan interpretasi hasil**,  
+bukan sekadar menghasilkan angka.
 
 ---
 
-## Capaian Pembelajaran
-Mahasiswa mampu:
+## Peran Level 2 dalam Struktur Pembelajaran
 
-1. Menerapkan tools pemodelan untuk analisis hidrologi/hidraulika.
-2. Menggunakan ML/NN untuk prediksi atau peningkatan performa model.
-3. Mengevaluasi performa model secara kuantitatif (metrik, validasi).
-4. Menyusun laporan teknis/ilmiah format **IMRAD** dengan referensi yang benar.
+Jika Level 1 membangun **fondasi fisik dan logika hidrologi**, maka Level 2 membangun **kemampuan rekayasa berbasis model**.
 
----
+Pada tahap ini mahasiswa belajar bahwa:
+- Model adalah **representasi sistem**, bukan kebenaran mutlak  
+- Setiap model memiliki **batasan, ketidakpastian, dan asumsi**  
+- Hasil simulasi harus **diterjemahkan menjadi pemahaman sistem air**
 
-## Kebijakan Penggunaan AI (wajib)
-AI boleh dipakai untuk:
-- merapikan bahasa,
-- menyusun struktur laporan,
-- brainstorming metode, diagram, atau checklist.
-
-AI tidak boleh menggantikan:
-- interpretasi hasil,
-- keputusan teknis,
-- pemilihan asumsi,
-- pembahasan ilmiah (harus ditulis sendiri berbasis data dan referensi).
-
-Mahasiswa wajib menyertakan bagian:
-**“AI Use Statement”** (singkat) pada laporan.
-
----
-## Struktur Modul Level 2
-
-Level 2 berfokus pada **pemodelan, engineering tools, Machine Learning, dan penulisan ilmiah**.
-
-### Tahap 1–7 (Engineering & Data Foundation)
-
-1. Rainfall–Runoff Modeling Concepts  
-2. Introduction to HEC-HMS  
-3. Basin Model Development  
-4. Parameter Calibration & Validation  
-5. Introduction to HEC-RAS  
-6. River Geometry & Boundary Conditions  
-7. Flow Simulation & Result Interpretation  
-
-### Modul 8 — Case Study 1  
-**Aplikasi HEC-HMS/HEC-RAS pada DAS studi**  
-→ Menguji kemampuan tahap 1–7
+Level ini menjadi jembatan menuju Level 3, di mana model tidak lagi berdiri sendiri, tetapi menjadi bagian dari **sistem keputusan dan sistem peringatan dini**.
 
 ---
 
-### Tahap 9–15 (ML, AI & Professional Reporting)
+## Fokus Kompetensi Level 2
 
-9. Data Preparation for Hydrology ML  
-10. Introduction to Machine Learning in Hydrology  
-11. Neural Network for Rainfall–Runoff Prediction  
-12. Model Evaluation Metrics (RMSE, NSE, R², etc.)  
-13. Hybrid Modeling (Physical + ML)  
-14. Scientific Writing with IMRAD  
-15. AI-Assisted Analysis & Ethical Use  
+Mahasiswa dilatih untuk mampu:
 
-### Modul 16 — Case Study 2  
-**Comparative Study: Physical Model vs ML Model**  
-→ Menguji kemampuan tahap 9–15
+1. Mengoperasikan model hidrologi dan hidraulika secara sistematis  
+2. Melakukan kalibrasi, validasi, dan evaluasi performa model  
+3. Menggunakan ML/AI sebagai alat bantu prediksi berbasis data  
+4. Menginterpretasikan hasil model dalam konteks sistem DAS  
+5. Menyusun laporan analisis berbasis **format IMRAD** secara profesional  
 
 ---
 
-## Output Level 2
-- Model HEC-HMS/HEC-RAS
-- Model ML / Neural Network
+## Peralihan Menuju Level 3
 
-- Tugas modul (ringkas)
-- 1–2 studi kasus
-- Laporan IMRAD (wajib) + daftar pustaka + AI Use Statement
+Pada akhir Level 2, mahasiswa mulai memahami bahwa:
+
+- Model ≠ tujuan akhir  
+- Model adalah **komponen dalam sistem pengambilan keputusan**  
+- Prediksi harus terhubung dengan **aksi mitigasi dan manajemen risiko**
+
+Pemahaman ini akan dikembangkan lebih lanjut di **Level 3**, di mana model hidrologi, hidraulika, dan AI diintegrasikan menjadi:
+
+**Decision System**,  
+**Flood Forecasting & Warning System (FFWS)**,  
+serta strategi **mitigasi berbasis simulasi skenario**.
 
 ---
 
-## Navigasi
-Silakan buka modul melalui menu **Level 2** pada navbar.
+## Catatan Penggunaan AI
+AI boleh digunakan sebagai alat bantu dalam:
+- eksplorasi data,
+- pembuatan skrip,
+- atau visualisasi hasil.
 
-## 🚀 Mulai Belajar
-- [Modul 1](01.md)
-- [Modul 2](02.md)
-- [Modul 3](03.md)
-- [Modul 4](04.md)
-- [Modul 5](05.md)
-- [Modul 6](06.md)
-- [Modul 7](07.md)
-- [Modul 8 — Case Study 1](08-case-1.md)
-- [Modul 9](09.md)
-- [Modul 10](10.md)
-- [Modul 11](11.md)
-- [Modul 12](12.md)
-- [Modul 13](13.md)
-- [Modul 14](14.md)
-- [Modul 15](15.md)
-- [Modul 16 — Case Study 2](16-case-2.md)
-- [Report Guideline](report-guideline.md)
+Namun:
+> **interpretasi hidrologi, evaluasi model, dan pengambilan keputusan tetap menjadi tanggung jawab mahasiswa.**
+
+Level ini melatih penggunaan AI secara **bertanggung jawab dan profesional**, sebagai bagian dari proses rekayasa sumber daya air modern.
