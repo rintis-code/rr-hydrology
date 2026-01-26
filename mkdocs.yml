@@ -1,21 +1,29 @@
 site_name: Rr. Hydrology
 site_url: https://rintis-code.github.io/rr-hydrology/
+site_description: Portal Belajar Hidrologi, Engineering, dan AI
 use_directory_urls: true
 
+# Konfigurasi Tema Material
 theme:
   name: material
+  palette:
+    scheme: default
+    primary: blue
+    accent: blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
 
-  nav:
+# Struktur Navigasi (Sidebar)
+nav:
+  # Halaman Utama
   - Home: index.md
   - About: about.md
   - Learning Roadmap: roadmap.md
-  - Level 1 — Fundamental Hydrology:
-      - Overview: level-1/00-intro.md
-  - Level 2 — Applied Hydrology (AI):
-      - Overview: level-2/00-intro.md
-  - Level 3 — Expert Hydrology (AI Agents):
-      - Overview: level-3/00-intro.md
 
+  # LEVEL 1 (Dikelompokkan)
   - Level 1 - Fundamental Hydrology:
       - Overview: level-1/00-intro.md
       - Modul 1: level-1/01.md
@@ -36,6 +44,7 @@ theme:
       - Modul 16 - Case UAS: level-1/16-case-uas.md
       - AI Policy: level-1/ai-policy.md
 
+  # LEVEL 2 (Dikelompokkan)
   - Level 2 - Applied Hydrology (AI):
       - Overview: level-2/00-intro.md
       - Modul 1: level-2/01.md
@@ -54,8 +63,9 @@ theme:
       - Modul 14: level-2/14.md
       - Modul 15: level-2/15.md
       - Modul 16 - Case 2: level-2/16-case-2.md
-     - Report Guideline: level-2/report-guideline.md
+      - Report Guideline: level-2/report-guideline.md
 
+  # LEVEL 3 (Dikelompokkan)
   - Level 3 - Expert Hydrology (AI Agents):
       - Overview: level-3/00-intro.md
       - Modul 1: level-3/01-from-model-to-decision-system.md
@@ -74,5 +84,18 @@ theme:
       - Modul 14 - Case Mitigation: level-3/14-case-mitigation.md
       - Modul 15 - Case River Engineering: level-3/15-case-river-engineering.md
 
-extra_css:
-  - stylesheets/extra.css
+# Plugin & Ekstensi
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.superfences
+  - tables
+
+# Catatan mengenai extra_css:
+# Jika kamu belum membuat file 'docs/stylesheets/extra.css', 
+# HAPUS baris di bawah ini agar build tidak error.
+# extra_css:
+#   - stylesheets/extra.css
