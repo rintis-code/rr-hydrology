@@ -1,15 +1,30 @@
-.md-header, .md-tabs {
-  background: linear-gradient(90deg, #1e3a8a 0%, #6d28d9 100%);
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 18px;
+  margin-top: 20px;
 }
 
-.md-header__title, .md-tabs__link {
-  color: #ffffff !important;
+.card {
+  border-radius: 14px;
+  padding: 18px;
+  background: linear-gradient(145deg, #f5f7ff, #e9edff);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.md-main {
-  background: #f7f7ff;
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.10);
 }
-/* Sembunyikan repo name di header */
-.md-header__source {
-  display: none !important;
+
+.card h3 {
+  margin-top: 0;
+  color: #3b3f92;
+}
+
+.card a {
+  text-decoration: none;
+  font-weight: 600;
+  color: #2b2f77;
 }
