@@ -1,103 +1,94 @@
 # Level 3 — Expert Hydrology (AI Agents)
 
-## Purpose
-Level ini berfokus pada transformasi dari **pemodelan hidrologi-hidraulika** menjadi **sistem keputusan (decision system)** berbasis data, model, dan kecerdasan buatan.
+Level 3 berfokus pada transformasi dari **model hidrologi-hidraulika** menjadi **sistem keputusan berbasis data, model, dan AI**.
 
-Jika Level 1 membangun fondasi konsep, dan Level 2 melatih pemodelan teknik, maka **Level 3 adalah tahap integrasi**:  
-model → sistem → keputusan.
+Jika Level 2 melatih mahasiswa menggunakan model, maka Level 3 melatih mahasiswa untuk:
 
----
+• Mengintegrasikan model menjadi sistem  
+• Menganalisis risiko dan ketidakpastian  
+• Menggunakan AI sebagai decision assistant  
+• Menerjemahkan hasil simulasi menjadi tindakan mitigasi nyata  
 
-## Filosofi Level 3
-Pada dunia nyata, hasil model tidak berdiri sendiri.  
-Ia harus diterjemahkan menjadi:
-
-- keputusan operasional,
-- strategi mitigasi,
-- desain rekayasa,
-- dan kebijakan teknis.
-
-Level ini melatih mahasiswa untuk berpikir sebagai **engineer pengambil keputusan**, bukan sekadar analis model.
+Level ini adalah tahap di mana mahasiswa berkembang menjadi **hydrology decision engineer**.
 
 ---
 
-## Fokus Kompetensi
+## 🎯 Tujuan Level 3
 
-Mahasiswa pada level ini akan belajar:
+Mahasiswa mampu:
 
-- Integrasi model hidrologi dan hidraulika
-- Analisis risiko dan ketidakpastian
-- Sistem pendukung keputusan sumber daya air
-- Konsep dan peran **AI Agent dalam sistem teknik**
-- Penerjemahan output model menjadi tindakan mitigasi nyata
-
----
-
-## Konsep Kunci Level 3
-
-Level ini memperkenalkan pendekatan:
-
-### 🔹 Model-Based Decision System
-Model bukan hanya untuk simulasi, tetapi untuk:
-- memprediksi skenario,
-- membandingkan alternatif,
-- mendukung keputusan berbasis data.
-
-### 🔹 AI as Decision Assistant (Bukan Pengganti Engineer)
-AI digunakan sebagai:
-- alat bantu analisis kompleks,
-- pengolah skenario cepat,
-- pengintegrasi berbagai sumber informasi.
-
-Namun, **interpretasi akhir tetap tanggung jawab engineer**.
-
-### 🔹 System Thinking in Hydrology
-Mahasiswa dilatih melihat sistem air sebagai:
-- jaringan komponen yang saling terhubung,
-- bukan sekadar satu model tunggal.
-
----
-
-## Struktur Modul Level 3
-
-Level ini terdiri dari tiga bagian besar:
-
-### 🧠 Bagian 1 — Integrasi Model & Risiko (Modul 1–7)
-Mahasiswa memahami bagaimana model digabungkan dan bagaimana ketidakpastian dianalisis.
-
-### 🤖 Bagian 2 — AI Agent & Sistem FFWS (Modul 8–13)
-Mahasiswa mempelajari konsep **AI Agent**, arsitektur sistem, dan perancangan **Flood Forecasting Warning System (FFWS)** berbasis keputusan.
-
-### 🌍 Bagian 3 — Implementasi Mitigasi Nyata (Modul 14–15)
-Mahasiswa menerjemahkan hasil sistem menjadi:
-- tindakan mitigasi banjir/kekeringan  
-- rekayasa sungai dan infrastruktur adaptif
-
----
-
-## Output Pembelajaran
-
-Pada akhir Level 3, mahasiswa mampu:
-
-1. Merancang kerangka sistem keputusan berbasis model SDA  
-2. Mengintegrasikan model hidrologi dan hidraulika dalam satu sistem  
+1. Mengintegrasikan model hidrologi dan hidraulika dalam satu sistem  
+2. Merancang sistem pendukung keputusan sumber daya air  
 3. Menggunakan AI sebagai alat bantu analisis sistem kompleks  
 4. Mengusulkan tindakan mitigasi berbasis simulasi skenario  
-5. Berpikir sebagai **hydrology decision engineer**
+5. Mengevaluasi dampak teknis dan risiko sistem  
 
 ---
 
-## Karakter Level 3
-Level ini bersifat:
+## 🧠 Peran AI di Level 3
 
-- Sistemik  
-- Integratif  
-- Berbasis skenario  
-- Berorientasi keputusan  
+AI berperan sebagai:
 
-Ini adalah tahap menuju **praktik profesional dan riset terapan** di bidang sumber daya air.
+• Pengolah skenario cepat  
+• Pengintegrasi berbagai sumber informasi  
+• Asisten analisis dalam sistem kompleks  
+
+Namun, keputusan teknik dan interpretasi akhir tetap dilakukan oleh engineer.
 
 ---
 
-## Navigasi
-Silakan gunakan menu modul untuk memulai dari Modul 1 hingga Modul 15.
+## 🔗 Kaitan dengan Level 2
+
+Level 2 menghasilkan **model yang terkalibrasi dan tervalidasi**.  
+Level 3 menggunakan model tersebut sebagai bagian dari:
+
+• Flood Forecasting & Warning System (FFWS)  
+• Sistem keputusan berbasis risiko  
+• Simulasi tindakan mitigasi  
+• Rekayasa sungai dan infrastruktur adaptif  
+
+Level 3 adalah kelanjutan logis dari kemampuan modeling menuju **decision intelligence**.
+
+---
+
+# 🧩 Struktur Modul Level 3
+
+## 🚀 Mulai Belajar
+
+### 🧠 Modul Integrasi Model & Risiko
+- [Modul 1 — From Model to Decision System](../01-from-model-to-decision-system/)
+- [Modul 2 — System Architecture SDA](../02-system-architecture-sda/)
+- [Modul 3 — Multi-Model Integration](../03-multi-model-integration/)
+- [Modul 4 — Uncertainty & Risk](../04-uncertainty-and-risk/)
+
+### 🌊 Modul Rekayasa Adaptif
+- [Modul 5 — Adaptive River Infrastructure](../05-adaptive-river-infrastructure/)
+- [Modul 6 — Adaptive Reservoir Operation](../06-adaptive-reservoir-operation/)
+
+### 🤖 Modul Decision Intelligence & AI
+- [Modul 7 — Decision Layer in SDA](../07-decision-layer-in-sda/)
+- [Modul 8 — AI Agent Concept](../08-ai-agent-concept/)
+- [Modul 9 — FFWS System Concept](../09-ffws-system-concept/)
+
+### ⚙️ Modul Mitigasi & Evaluasi
+- [Modul 10 — Mitigation Action Simulation](../10-mitigation-action-simulation/)
+- [Modul 11 — Extreme Event Scenarios](../11-extreme-event-scenarios/)
+- [Modul 12 — Impact Evaluation](../12-impact-evaluation/)
+
+### 🏗 Modul Proyek & Studi Kasus
+- [Modul 13 — Project FFWS System](../13-project-ffws-system/)
+- [Modul 14 — Case Mitigation](../14-case-mitigation/)
+- [Modul 15 — Case River Engineering](../15-case-river-engineering/)
+
+---
+
+## 📘 Output Level 3
+
+Mahasiswa menghasilkan:
+
+• Desain sistem keputusan berbasis model SDA  
+• Rancangan sistem FFWS  
+• Simulasi tindakan mitigasi berbasis skenario  
+• Evaluasi risiko dan dampak teknis  
+
+Level 3 menyiapkan mahasiswa menuju praktik profesional dan riset terapan dalam sistem sumber daya air berbasis AI.
