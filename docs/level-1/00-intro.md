@@ -1,77 +1,58 @@
-# Level 1 — Fundamental Hydrology 
+# Level 1 — Fundamental Hydrology
 
-## Purpose
-This level builds conceptual and computational foundations for hydrology, emphasizing interpretability and manual reasoning.
+Level 1 membangun fondasi pemahaman tentang **proses fisik hidrologi** dan hubungan antar komponen dalam siklus air.
 
-## Typical topics (to be expanded)
-- Rainfall characteristics and quality control
-- Rainfall–runoff transformation
-- Unit hydrograph concepts
-- Frequency analysis and design rainfall
-- Routing basics and event water balance
+Fokus utama pada level ini adalah:
 
-## Deskripsi Level
-Level 1 adalah fondasi. Fokusnya pada **proses fisik** hidrologi dan **perhitungan/konsep dasar** sebagai bekal sebelum masuk ke pemodelan modern.
+• Memahami konsep dasar hidrologi  
+• Menghubungkan proses hujan–limpasan secara logis  
+• Melakukan perhitungan dasar secara sistematis  
+• Menafsirkan hasil berdasarkan proses fisik  
 
-Pada level ini, mahasiswa dibimbing untuk:
-- memahami konsep (bukan sekadar rumus),
-- mampu menjelaskan asumsi,
-- mampu membaca hasil secara logis.
+Level ini menyiapkan mahasiswa untuk berpikir sebagai **analis sistem air berbasis konsep**, bukan sekadar pengguna rumus.
 
 ---
 
-## Capaian Pembelajaran
-Setelah menyelesaikan Level 1, mahasiswa mampu:
+## 🎯 Tujuan Level 1
 
-1. Menjelaskan konsep kunci hidrologi (hujan–limpasan, infiltrasi, hidrograf, neraca air).
-2. Melakukan analisis dasar banjir dan kekeringan secara sistematis.
-3. Menginterpretasikan hasil perhitungan dan mengaitkan dengan kondisi DAS.
+Mahasiswa mampu:
 
----
-
-## Struktur Modul (1–16)
-
-### Tahap 1–7 (Fondasi Konsep)
-1. [Hydrology Basics](../01/)
-2. [Rainfall Analysis](../02/)
-3. [Evapotranspiration](../03/)
-4. [Infiltration & Runoff](../04/)
-5. [Hydrograph Concepts](../05/)  
-6. [Unit Hydrograph](../06/)
-7. [Flood Estimation](../07/)  
-  
-### Modul 8 (Case Study 1 — Uji Tahap 1–7)
-8. Case Study 1
-
-### Tahap 9–15 (Penguatan Analitik & Integrasi)
-9. [Statistical Hydrology](../09/)  
-10. [Drought Analysis](../10/)  
-11. [Water Balance](../11/)  
-12. [Watershed Processes](../12/)  
-13. [River Hydraulics Intro](../13/)  
-14. [Open Channel Flow](../14/)  
-15. [Sediment Basics](../15/)  
-
-### Modul 16 (Case Study 2 — Uji Tahap 9–15)
-16. [Case Study 2](../16-case-uas/)
-
-[AI Policy & Guidance](ai-policy.md)
+1. Menjelaskan proses utama dalam siklus hidrologi  
+2. Menganalisis hubungan hujan, limpasan, dan respon DAS  
+3. Menggunakan metode dasar untuk analisis banjir dan kekeringan  
+4. Menginterpretasikan hasil perhitungan secara fisik dan logis  
 
 ---
 
-## Output & Penilaian (ringkas)
-- Latihan terarah per modul
-- 2 studi kasus (Modul 8 dan 16)
-- Penekanan pada: **logika, asumsi, interpretasi**
+## 🧠 Karakter Pembelajaran Level 1
+
+Level ini menekankan:
+
+• Pemahaman proses (bukan hafalan rumus)  
+• Logika hubungan sebab–akibat dalam sistem DAS  
+• Kemampuan membaca makna fisik hasil perhitungan  
+
+Belum menggunakan AI atau software kompleks — fokus pada **fondasi berpikir hidrologi**.
 
 ---
 
-## Navigasi
-Silakan gunakan menu di atas untuk membuka modul 1–16.
+## 🔗 Kaitan dengan Level 2
+
+Setelah Level 1, mahasiswa siap masuk ke Level 2, di mana:
+
+• Proses fisik akan direpresentasikan dalam model  
+• Analisis manual berkembang menjadi pemodelan teknik  
+• Interpretasi konsep berkembang menjadi evaluasi performa model  
+
+Level 1 adalah dasar konseptual dari seluruh pembelajaran berikutnya.
+
+---
+
+# 🧩 Struktur Modul Level 1
 
 ## 🚀 Mulai Belajar
 
-### 📘 Tahap 1–7 (Fondasi Konsep)
+### 📘 Tahap 1–7 (Fondasi Konsep Hidrologi)
 - [Modul 1 — Hydrology Basics](../01/)
 - [Modul 2 — Rainfall Analysis](../02/)
 - [Modul 3 — Evapotranspiration](../03/)
@@ -80,29 +61,29 @@ Silakan gunakan menu di atas untuk membuka modul 1–16.
 - [Modul 6 — Unit Hydrograph](../06/)
 - [Modul 7 — Flood Estimation](../07/)
 
-### 🧩 Modul 8 — Case Study UTS
-- [Modul 8 — Case Study UTS](08-case-uts.md)
+### 🧩 Modul 8 — Case Study 1 (Uji Tahap 1–7)
+- [Modul 8 — Case Study UTS](../08-case-uts/)
 
-### 📊 Tahap 9–15 (Penguatan Analitik)
-- [Modul 9 — Statistical Hydrology](09.md)
-- [Modul 10 — Drought Analysis](10.md)
-- [Modul 11 — Water Balance](11.md)
-- [Modul 12 — Watershed Processes](12.md)
-- [Modul 13 — River Hydraulics Intro](13.md)
-- [Modul 14 — Open Channel Flow](14.md)
-- [Modul 15 — Sediment Basics](15.md)
+### 📊 Tahap 9–15 (Penguatan Analitik Dasar)
+- [Modul 9 — Statistical Hydrology](../09/)
+- [Modul 10 — Drought Analysis](../10/)
+- [Modul 11 — Water Balance](../11/)
+- [Modul 12 — Watershed Processes](../12/)
+- [Modul 13 — River Hydraulics Intro](../13/)
+- [Modul 14 — Open Channel Flow](../14/)
+- [Modul 15 — Sediment Basics](../15/)
 
-### 🧪 Modul 16 — Case Study UAS
-- [Modul 16 — Case Study UAS](16-case-uas.md)
-
-### 🤖 Panduan Penggunaan AI
-- [AI Policy & Guidance](ai-policy.md)
-
+### 🧪 Modul 16 — Case Study 2 (Integrasi Dasar)
+- [Modul 16 — Case Study UAS](../16-case-uas/)
 
 ---
 
-### 🤖 Panduan Penggunaan AI
+## 📘 Output Level 1
 
-- [AI Policy & Guidance](../ai-policy.md)
+Mahasiswa menghasilkan:
 
+• Analisis perhitungan dasar hidrologi  
+• Interpretasi proses fisik dalam DAS  
+• Pemahaman konsep banjir dan kekeringan  
 
+Level 1 membentuk dasar berpikir sebelum masuk ke pemodelan teknik di Level 2.
