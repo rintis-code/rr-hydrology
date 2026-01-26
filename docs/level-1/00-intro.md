@@ -48,21 +48,50 @@ Level 1 adalah dasar konseptual dari seluruh pembelajaran berikutnya.
 
 ---
 
-# 🧩 Struktur Modul Level 1
+## 🚀 Mulai Belajar Level 1
 
-## 🚀 Mulai Belajar
+<div class="grid">
 
-### 📘 Tahap 1–7 (Fondasi Konsep Hidrologi)
-- [Modul 1 — Hydrology Basics](../01/)
-- [Modul 2 — Rainfall Analysis](../02/)
-- [Modul 3 — Evapotranspiration](../03/)
-- [Modul 4 — Infiltration & Runoff](../04/)
-- [Modul 5 — Hydrograph Concepts](../05/)
-- [Modul 6 — Unit Hydrograph](../06/)
-- [Modul 7 — Flood Estimation](../07/)
+<div class="card">
+<h3>Modul 1 — Hydrology Basics</h3>
+<a href="../01/">Buka Modul →</a>
+</div>
 
-### 🧩 Modul 8 — Case Study 1 (Uji Tahap 1–7)
-- [Modul 8 — Case Study UTS](../08-case-uts/)
+<div class="card">
+<h3>Modul 2 — Rainfall Analysis</h3>
+<a href="../02/">Buka Modul →</a>
+</div>
+
+<div class="card">
+<h3>Modul 3 — Evapotranspiration</h3>
+<a href="../03/">Buka Modul →</a>
+</div>
+
+<div class="card">
+<h3>Modul 4 — Infiltration & Runoff</h3>
+<a href="../04/">Buka Modul →</a>
+</div>
+
+<div class="card">
+<h3>Modul 5 — Hydrograph Concepts</h3>
+<a href="../05/">Buka Modul →</a>
+</div>
+
+<div class="card">
+<h3>Modul 6 — Unit Hydrograph</h3>
+<a href="../06/">Buka Modul →</a>
+</div>
+
+<div class="card">
+<h3>Modul 7 — Flood Estimation</h3>
+<a href="../07/">Buka Modul →</a>
+</div>
+
+<div class="card">
+<h3>Modul 8 — Case Study 1</h3>
+<a href="../08-case-uts/">Buka Modul →</a>
+</div>
+
 
 ### 📊 Tahap 9–15 (Penguatan Analitik Dasar)
 - [Modul 9 — Statistical Hydrology](../09/)
