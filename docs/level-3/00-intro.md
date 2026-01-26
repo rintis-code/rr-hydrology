@@ -1,117 +1,103 @@
-# Level 3 — Expert Hydrology (AI Agents) 
+# Level 3 — Expert Hydrology (AI Agents)
 
 ## Purpose
-This level advances toward agentic hydrology: workflows that connect hydrologic outputs to decision relevance with human oversight.
+Level ini berfokus pada transformasi dari **pemodelan hidrologi-hidraulika** menjadi **sistem keputusan (decision system)** berbasis data, model, dan kecerdasan buatan.
 
-## Typical topics (to be expanded)
-- Agent workflow architecture: ingestion → QA → modeling → interpretation → recommendation
-- Threshold logic and alert interpretation
-- Human-in-the-loop decision processes
-- SOP alignment and auditability
-
-## Deskripsi Level
-Level 3 berfokus pada **sistem keputusan** (decision systems) untuk hidrologi dan pengelolaan sumber daya air.
-
-Di level ini, mahasiswa tidak hanya membuat model, tetapi merancang:
-- sistem mitigasi banjir dan kekeringan,
-- sistem operasi waduk adaptif,
-- rekayasa sungai dalam kerangka sistem,
-- dan proyek sistem **FFWS**.
-
-Karena kompleks, level ini memperkenalkan **Agent AI** sebagai decision-support.
+Jika Level 1 membangun fondasi konsep, dan Level 2 melatih pemodelan teknik, maka **Level 3 adalah tahap integrasi**:  
+model → sistem → keputusan.
 
 ---
 
-## Capaian Pembelajaran
-Mahasiswa mampu:
+## Filosofi Level 3
+Pada dunia nyata, hasil model tidak berdiri sendiri.  
+Ia harus diterjemahkan menjadi:
 
-1. Berpikir sistemik (hulu–hilir, risiko, ketidakpastian).
-2. Mengembangkan kerangka keputusan (threshold, skenario, trade-off).
-3. Mendesain arsitektur FFWS sebagai sistem operasional.
-4. Memanfaatkan Agent AI untuk mengevaluasi skenario, tanpa menghilangkan peran engineer.
+- keputusan operasional,
+- strategi mitigasi,
+- desain rekayasa,
+- dan kebijakan teknis.
+
+Level ini melatih mahasiswa untuk berpikir sebagai **engineer pengambil keputusan**, bukan sekadar analis model.
+
+---
+
+## Fokus Kompetensi
+
+Mahasiswa pada level ini akan belajar:
+
+- Integrasi model hidrologi dan hidraulika
+- Analisis risiko dan ketidakpastian
+- Sistem pendukung keputusan sumber daya air
+- Konsep dan peran **AI Agent dalam sistem teknik**
+- Penerjemahan output model menjadi tindakan mitigasi nyata
 
 ---
 
-## Kebijakan Agent AI
-Agent AI digunakan untuk:
-- membandingkan skenario,
-- membantu reasoning terstruktur,
-- merangkum alternatif tindakan.
+## Konsep Kunci Level 3
 
-Keputusan akhir tetap:
-- pada engineer/mahasiswa,
-- berbasis data, model, dan referensi.
+Level ini memperkenalkan pendekatan:
+
+### 🔹 Model-Based Decision System
+Model bukan hanya untuk simulasi, tetapi untuk:
+- memprediksi skenario,
+- membandingkan alternatif,
+- mendukung keputusan berbasis data.
+
+### 🔹 AI as Decision Assistant (Bukan Pengganti Engineer)
+AI digunakan sebagai:
+- alat bantu analisis kompleks,
+- pengolah skenario cepat,
+- pengintegrasi berbagai sumber informasi.
+
+Namun, **interpretasi akhir tetap tanggung jawab engineer**.
+
+### 🔹 System Thinking in Hydrology
+Mahasiswa dilatih melihat sistem air sebagai:
+- jaringan komponen yang saling terhubung,
+- bukan sekadar satu model tunggal.
 
 ---
+
 ## Struktur Modul Level 3
 
-Level 3 membahas **Decision Systems berbasis Agent AI** untuk sistem hidrologi nyata.
+Level ini terdiri dari tiga bagian besar:
 
-### Tahap 1–12 (Agent AI & Decision Framework)
+### 🧠 Bagian 1 — Integrasi Model & Risiko (Modul 1–7)
+Mahasiswa memahami bagaimana model digabungkan dan bagaimana ketidakpastian dianalisis.
 
-1. Systems Thinking in Water Resources  
-2. Decision Support Systems (DSS) Basics  
-3. Hydrological Risk & Uncertainty  
-4. Scenario-Based Planning  
-5. Introduction to Agent AI Concepts  
-6. Human-in-the-Loop Decision Making  
-7. Multi-Criteria Decision Analysis (MCDA)  
-8. Threshold & Early Warning Logic  
-9. Reservoir Operation Strategies  
-10. Flood Mitigation Strategy Design  
-11. Drought Risk Management  
-12. Integrating Hydrology–Hydraulics–Decision Layers  
+### 🤖 Bagian 2 — AI Agent & Sistem FFWS (Modul 8–13)
+Mahasiswa mempelajari konsep **AI Agent**, arsitektur sistem, dan perancangan **Flood Forecasting Warning System (FFWS)** berbasis keputusan.
+
+### 🌍 Bagian 3 — Implementasi Mitigasi Nyata (Modul 14–15)
+Mahasiswa menerjemahkan hasil sistem menjadi:
+- tindakan mitigasi banjir/kekeringan  
+- rekayasa sungai dan infrastruktur adaptif
 
 ---
 
-### Modul 13 — Proyek Sistem  
-**Design of Flood Forecasting & Warning System (FFWS)**  
-→ Produk sistem utuh berbasis modul 1–12
+## Output Pembelajaran
+
+Pada akhir Level 3, mahasiswa mampu:
+
+1. Merancang kerangka sistem keputusan berbasis model SDA  
+2. Mengintegrasikan model hidrologi dan hidraulika dalam satu sistem  
+3. Menggunakan AI sebagai alat bantu analisis sistem kompleks  
+4. Mengusulkan tindakan mitigasi berbasis simulasi skenario  
+5. Berpikir sebagai **hydrology decision engineer**
 
 ---
 
-### Modul 14 — Kasus Mitigasi  
-**Flood & Drought Mitigation Case Study**  
-→ Analisis skenario + rekomendasi teknis
+## Karakter Level 3
+Level ini bersifat:
 
----
+- Sistemik  
+- Integratif  
+- Berbasis skenario  
+- Berorientasi keputusan  
 
-### Modul 15 — Kasus Rekayasa Sungai & Infrastruktur  
-**River Engineering & Infrastructure Decision Case**  
-→ Kombinasi model, risiko, dan kebijakan
-
----
-
-## Output Level 3
-- Kerangka sistem FFWS
-- Decision workflow berbasis Agent AI
-- Rekomendasi teknis berbasis skenario
-
----
-
-## Struktur Level 3 (ringkas)
-- 12 modul agentic workflow
-- 1 proyek sistem: **FFWS**
-- 2 studi kasus besar: mitigasi + rekayasa sungai/infrastruktur
+Ini adalah tahap menuju **praktik profesional dan riset terapan** di bidang sumber daya air.
 
 ---
 
 ## Navigasi
-Gunakan menu **Level 3** untuk mengakses modul 1–15.
-
-## 🚀 Mulai Belajar
-- [Modul 1 — From Model to Decision System](01-from-model-to-decision-system.md)
-- [Modul 2 — System Architecture](02-system-architecture-sda.md)
-- [Modul 3 — Multi-Model Integration](03-multi-model-integration.md)
-- [Modul 4 — Uncertainty & Risk](04-uncertainty-and-risk.md)
-- [Modul 5 — Adaptive River Infrastructure](05-adaptive-river-infrastructure.md)
-- [Modul 6 — Adaptive Reservoir Operation](06-adaptive-reservoir-operation.md)
-- [Modul 7 — Decision Layer in SDA](07-decision-layer-in-sda.md)
-- [Modul 8 — AI Agent Concept](08-ai-agent-concept.md)
-- [Modul 9 — FFWS System Concept](09-ffws-system-concept.md)
-- [Modul 10 — Mitigation Action Simulation](10-mitigation-action-simulation.md)
-- [Modul 11 — Extreme Event Scenarios](11-extreme-event-scenarios.md)
-- [Modul 12 — Impact Evaluation](12-impact-evaluation.md)
-- [Modul 13 — Project FFWS System](13-project-ffws-system.md)
-- [Modul 14 — Case Mitigation](14-case-mitigation.md)
-- [Modul 15 — Case River Engineering](15-case-river-engineering.md)
+Silakan gunakan menu modul untuk memulai dari Modul 1 hingga Modul 15.
