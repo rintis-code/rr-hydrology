@@ -104,6 +104,10 @@ Level 1 adalah dasar konseptual dari seluruh pembelajaran berikutnya.
 ### 🧪 Modul 16 — Case Study 2 (Integrasi Dasar)
 - [Modul 16 — Case Study UAS](../16-case-uas/)
 
+### 🤖 Panduan Penggunaan AI
+
+- [AI Policy & Guidance](../ai-policy/)
+
 ---
 
 ## 📘 Output Level 1
