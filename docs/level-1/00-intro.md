@@ -46,8 +46,6 @@ Setelah Level 1, mahasiswa siap masuk ke Level 2, di mana:
 
 Level 1 adalah dasar konseptual dari seluruh pembelajaran berikutnya.
 
----
-
 ## 🚀 Mulai Belajar Level 1
 
 <div class="grid">
@@ -92,6 +90,8 @@ Level 1 adalah dasar konseptual dari seluruh pembelajaran berikutnya.
 <a href="../08-case-uts/">Buka Modul →</a>
 </div>
 
+</div> <!-- ✅ PENUTUP GRID -->
+
 ### 📊 Tahap 9–15 (Penguatan Analitik Dasar)
 - [Modul 9 — Statistical Hydrology](../09/)
 - [Modul 10 — Drought Analysis](../10/)
@@ -105,7 +105,6 @@ Level 1 adalah dasar konseptual dari seluruh pembelajaran berikutnya.
 - [Modul 16 — Case Study UAS](../16-case-uas/)
 
 ### 🤖 Panduan Penggunaan AI
-
 - [AI Policy & Guidance](../ai-policy/)
 
 ---
