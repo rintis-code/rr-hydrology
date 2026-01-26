@@ -70,13 +70,13 @@ Silakan gunakan menu di atas untuk membuka modul 1–16.
 ## 🚀 Mulai Belajar
 
 ### 📘 Tahap 1–7 (Fondasi Konsep)
-- [Modul 1 — Hydrology Basics](/rr-hydrology/level-1/01/)
-- [Modul 2 — Rainfall Analysis](02.md)
-- [Modul 3 — Evapotranspiration](03.md)
-- [Modul 4 — Infiltration & Runoff](04.md)
-- [Modul 5 — Hydrograph Concepts](05.md)
-- [Modul 6 — Unit Hydrograph](06.md)
-- [Modul 7 — Flood Estimation](07.md)
+- [Modul 1 — Hydrology Basics](../01/)
+- [Modul 2 — Rainfall Analysis](../02/)
+- [Modul 3 — Evapotranspiration](../03/)
+- [Modul 4 — Infiltration & Runoff](../04/)
+- [Modul 5 — Hydrograph Concepts](../05/)
+- [Modul 6 — Unit Hydrograph](../06/)
+- [Modul 7 — Flood Estimation](../07/)
 
 ### 🧩 Modul 8 — Case Study UTS
 - [Modul 8 — Case Study UTS](08-case-uts.md)
