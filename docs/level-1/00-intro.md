@@ -45,16 +45,18 @@ Setelah menyelesaikan Level 1, mahasiswa mampu:
 8. Case Study 1
 
 ### Tahap 9–15 (Penguatan Analitik & Integrasi)
-9. Statistical Hydrology  
-10. Drought Analysis  
-11. Water Balance  
-12. Watershed Processes  
-13. River Hydraulics Intro  
-14. Open Channel Flow  
-15. Sediment Basics  
+9. [Statistical Hydrology](../09/)  
+10. [Drought Analysis](../10/)  
+11. [Water Balance](../11/)  
+12. [Watershed Processes](../12/)  
+13. [River Hydraulics Intro](../13/)  
+14. [Open Channel Flow](../14/)  
+15. [Sediment Basics](../15/)  
 
 ### Modul 16 (Case Study 2 — Uji Tahap 9–15)
-16. Case Study 2
+16. [Case Study 2](../16-case-uas/)
+
+[AI Policy & Guidance](ai-policy.md)
 
 ---
 
